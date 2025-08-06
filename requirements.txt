@@ -1,1 +1,8 @@
- 
+langchain
+chromadb
+faiss-cpu
+openai 
+tiktoken
+langchain_openai
+langchain-community
+wikipedia
